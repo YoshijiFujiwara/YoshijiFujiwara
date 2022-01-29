@@ -12,4 +12,4 @@
 
 生物系学部卒業 -> IT 系専門学校 -> Web エンジニア
 
-詳細は、
+詳細は、https://github.com/YoshijiFujiwara/YoshijiFujiwara/blob/main/README_detail.md
