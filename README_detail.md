@@ -84,6 +84,7 @@
 -   使用技術: Laravel / Android / Nuxt / JWT
 -   概要: バックエンドと管理者画面を主に担当しました。
     API の数が多いため、API 仕様書をきちんと定義し、Android 側の開発がスムーズに進むように意識しました
+
     <img src="/images/laravel_api.png" width="50%"/>
 
 また、管理者画面を高速で開発するために、Nuxt で開発しました。
